@@ -3,9 +3,9 @@
 Backend service for the FillForm application.
 
 ## Overview
-This is a Spring Boot application that handles the backend logic for the survey/form filling system.
+This is a Spring Boot application that handles the backend logic for the form filling system.
 
-## Tech Stack
+## Tech
 - **Java**: 17+ (Recommended)
 - **Framework**: Spring Boot
 - **Database**: MySQL
