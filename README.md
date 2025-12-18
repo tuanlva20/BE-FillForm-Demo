@@ -23,4 +23,3 @@ This is a Spring Boot application that handles the backend logic for the form fi
 - `src/main/java`: Source code
 - `src/main/resources`: Configuration files
 - `Dockerfile`: Application container definition
-- `docker-compose.yml`: Local environment setup
